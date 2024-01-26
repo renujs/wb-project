@@ -4,7 +4,7 @@ body {
 }
 
 .product {
-    border: 1px solid #ddd;
+    border: 2px solid #ddd;
     padding: 10px;
     margin: 10px;
     max-width: 300px;
